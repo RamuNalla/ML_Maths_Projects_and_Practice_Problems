@@ -3,7 +3,7 @@
 #         s.name = N
 #         s.age = A
 
-#     def myfunc(self):
+#     def myfunc(self):vvvrvv
 #         print("Hello my name is " + self.name)
 
 #     def __str__(self):
