@@ -3,6 +3,9 @@
 # Weekend Project Focus: Applying probability concepts (especially conditional probability and Bayes' Theorem) to build a simple text classifier from scratch.
 
 
+### Trial Git comment
+
+
 # Project Steps (To be done over the weekend / Day 14):
 
 # Dataset:
